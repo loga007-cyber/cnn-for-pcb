@@ -169,6 +169,6 @@ This project demonstrates that Transfer Learning can significantly improve PCB d
 
 ## 👨‍💻 Author
 
-**Keshava Mani Dheekshith Reddy Naredla**
+**LOGARAJEN T ,MONESH D, KABIL K**
 
 Machine Learning Project
